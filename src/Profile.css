@@ -1,0 +1,37 @@
+#name{
+    font-size: 250%;
+    color: rgb(16, 172, 245);
+    font-weight: bold;
+    padding-right:110px;
+}
+#lo{
+    padding-right:130px;
+    font-weight: lighter;
+    color: grey;
+
+}
+#Location{
+    padding-right: 117px;
+    font-weight: bold;
+}
+#blood{
+    padding-right:105px;
+    font-weight: lighter;
+    color: grey;
+}
+
+#blo{
+    padding-right: 170px;
+    font-weight: bold;
+}
+#age{
+    padding-right:165px;
+    font-weight: lighter;
+    color: grey;
+
+}
+#ag{
+    padding-right: 174px;
+    font-weight: bold;
+}
+   
